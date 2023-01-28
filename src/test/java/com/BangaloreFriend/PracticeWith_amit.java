@@ -8,6 +8,7 @@ public class PracticeWith_amit {
 	public void concept()
 	{
 		System.out.println("Good in concept");
+		//amit
 	}
 
 }
