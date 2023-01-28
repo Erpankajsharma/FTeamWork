@@ -8,6 +8,7 @@ public class PracticeWith_amit {
 	public void concept()
 	{
 		System.out.println("Good in concept");
+		System.out.println("Eduction is better for Tomorrow");
 		//amit
 		//jhbk
 	}
