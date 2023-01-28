@@ -8,6 +8,8 @@ public class PracticeWith_Friend {
 	public void ganeshPG()
 	{
 		System.out.println("Good practice");
+		System.out.println("We are Success in life");
+		
 	}
 
 }
