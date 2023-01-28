@@ -9,6 +9,7 @@ public class PracticeWith_amit {
 	{
 		System.out.println("Good in concept");
 		//amit
+		//jhbk
 	}
 
 }
