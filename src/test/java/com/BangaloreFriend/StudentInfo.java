@@ -15,5 +15,9 @@ public class StudentInfo {
 	{
 		Reporter.log("good morning",true);
 	}
-
+@Test
+	public void deleteCustTest()
+	{
+	Reporter.log("delete customer",true);
+	}
 }
