@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2023-01-28T11:25:35Z" finished-at="2023-01-28T11:25:35Z">
+    <groups>
+      <group name="regression">
+        <method signature="Akhilesh.created()[pri:0, instance:com.BangaloreFriend.Akhilesh@6093dd95]" name="created" class="com.BangaloreFriend.Akhilesh"/>
+        <method signature="PracticeWith_Friend.practice()[pri:0, instance:com.BangaloreFriend.PracticeWith_Friend@5622fdf]" name="practice" class="com.BangaloreFriend.PracticeWith_Friend"/>
+        <method signature="PracticeWith_Friend2jyot.devsheelaPG()[pri:0, instance:com.BangaloreFriend.PracticeWith_Friend2jyot@6a41eaa2]" name="devsheelaPG" class="com.BangaloreFriend.PracticeWith_Friend2jyot"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="PracticeWith_Friend.practice()[pri:0, instance:com.BangaloreFriend.PracticeWith_Friend@5622fdf]" name="practice" class="com.BangaloreFriend.PracticeWith_Friend"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="Akhilesh.created()[pri:0, instance:com.BangaloreFriend.Akhilesh@6093dd95]" name="created" class="com.BangaloreFriend.Akhilesh"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2023-01-28T11:25:35Z" finished-at="2023-01-28T11:25:35Z">
+      <class name="com.BangaloreFriend.PracticeWith_Friend2jyot">
+        <test-method status="PASS" signature="devsheelaPG()[pri:0, instance:com.BangaloreFriend.PracticeWith_Friend2jyot@6a41eaa2]" name="devsheelaPG" duration-ms="16" started-at="2023-01-28T16:55:35Z" finished-at="2023-01-28T16:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- devsheelaPG -->
+      </class> <!-- com.BangaloreFriend.PracticeWith_Friend2jyot -->
+      <class name="com.BangaloreFriend.PracticeWith_Friend">
+        <test-method status="PASS" signature="practice()[pri:0, instance:com.BangaloreFriend.PracticeWith_Friend@5622fdf]" name="practice" duration-ms="0" started-at="2023-01-28T16:55:35Z" finished-at="2023-01-28T16:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice -->
+      </class> <!-- com.BangaloreFriend.PracticeWith_Friend -->
+      <class name="com.BangaloreFriend.Akhilesh">
+        <test-method status="PASS" signature="created()[pri:0, instance:com.BangaloreFriend.Akhilesh@6093dd95]" name="created" duration-ms="0" started-at="2023-01-28T16:55:35Z" finished-at="2023-01-28T16:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- created -->
+      </class> <!-- com.BangaloreFriend.Akhilesh -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
