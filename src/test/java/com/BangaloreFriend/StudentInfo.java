@@ -8,6 +8,12 @@ public class StudentInfo {
 	public void studentTest()
 	{
 		Reporter.log("welcome",true);
+		
+	}
+	@Test
+	public void createCustTest()
+	{
+		Reporter.log("good morning",true);
 	}
 
 }
